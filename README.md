@@ -38,5 +38,6 @@ Secondly, the data set tells us what campaigns were cancelled, but we dot not kn
 1. When it comes to looking at successful data outcomes by launch date, it would be beneficial to have a chart that shows percentages of cancelled, failed and successful campaigns. 
 The data set doesn’t have a column for the number of days that a campaign was active in raising funds. It would be beneficial to calculate the number of days that a campaign is active for using the start and the end of the campaign dates. This can then be used to determine if having a longer campaign factored into a campaign meeting its fund raising goal. 
 2. When looking at Outcomes Based on Goal, It be beneficial to have a stacked columns start. It would help easily identify which month has the greatest successful campaigns percentage. 
+3. Descriptive statistics can be used to add more clairty and identify any outliers
 
 ![Outcomes Based on Goals Bar Chart](https://github.com/shayanafzal/Kickstarter_Challenge/blob/24a827cd2f60428b21ce1eeb9efb8ef6cca82394/Charts/Outcomes%20Based%20on%20Goals%20-%20Bar%20Chart.png)
