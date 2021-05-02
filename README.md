@@ -27,8 +27,7 @@ An analysis of ‘Theatre Outcomes by Launch Date’ leads to the following two 
 
 ![Outcomes Based on Launch Date - Bar Chart](https://github.com/shayanafzal/Kickstarter_Challenge/blob/7a72483fe6431fb3f6a8acab7cc7035e6b9fd9fa/Charts/Theater%20Outcomes%20Based%20on%20Launch%20Date%20-%20Bar%20Chart.png)
 
-![Outcomes Based on Lacunch Date - Line Chart]
-(https://github.com/shayanafzal/Kickstarter_Challenge/blob/61f5129a184a83c7ecb58fa6a59f7e3ffd73f3d9/Charts/Theater%20Outcomes%20Based%20on%20Launch%20Date%20-%20Line%20Chart.png)
+![Outcomes Based on Lacunch Date - Line Chart](https://github.com/shayanafzal/Kickstarter_Challenge/blob/61f5129a184a83c7ecb58fa6a59f7e3ffd73f3d9/Charts/Theater%20Outcomes%20Based%20on%20Launch%20Date%20-%20Line%20Chart.png)
 
 2. December is the worse month to start a campaign as it has the highest failure rate at 47%
 
