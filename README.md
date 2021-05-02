@@ -8,8 +8,10 @@ Louise’s play Fever had a fundraising goal of $ 2,885. The total amount pledge
 
 # Analysis and Challenges
 ## Overview
-For Outcomes based on Launch date, a pivot table has been generated showing the successful, failed and cancelled campaigns. This data is them represented on a line chart.  
+For Outcomes based on Launch date, a pivot table has been generated showing the successful, failed and cancelled campaigns. This data is them represented on a line chart. 
+ 
 For Outcomes based on Goals, the fundraising campaigns were split into several categories based on their fund-raising goal. From there on, the numbers as well as the percentages of successful, failed and cancelled campaign were identified. 
+
 ## Challenges
 When looking at the pivot table and the chart for Outcomes Based on Launch Date, the month-to-month success rate is difficult to compare as the grand total for each month is different. In order to compare the month-to-month relative successes rate, it would be beneficial to convert the data in the table for ‘Theater Outcomes by Launch Dates’ into percentages. 
 
