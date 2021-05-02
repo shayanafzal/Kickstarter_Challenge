@@ -18,11 +18,15 @@ When looking at the pivot table and the chart for Outcomes Based on Launch Date,
 ## Results
 ### Two Conclusions about Theatre Outcomes by Launch Date
 An analysis of ‘Theatre Outcomes by Launch Date’ leads to the following two conclusions
+
 1. The following are the top months for starting a camping
 * May 67% success rate
 * Jun 64% success rate
 * Feb and Jul 63% success rate
-* ![Outcomes Based on Launch Date - Bar Chart](https://github.com/shayanafzal/Kickstarter_Challenge/blob/7a72483fe6431fb3f6a8acab7cc7035e6b9fd9fa/Charts/Theater%20Outcomes%20Based%20on%20Launch%20Date%20-%20Bar%20Chart.png)
+* Please refer to the below chart for details
+
+![Outcomes Based on Launch Date - Bar Chart](https://github.com/shayanafzal/Kickstarter_Challenge/blob/7a72483fe6431fb3f6a8acab7cc7035e6b9fd9fa/Charts/Theater%20Outcomes%20Based%20on%20Launch%20Date%20-%20Bar%20Chart.png)
+
 2. December is the worse month to start a campaign as it has the highest failure rate at 47%
 
 ### One conclusion about Outcomes based on Goals
