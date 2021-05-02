@@ -22,7 +22,7 @@ An analysis of ‘Theatre Outcomes by Launch Date’ leads to the following two 
 * May 67% success rate
 * Jun 64% success rate
 * Feb and Jul 63% success rate
-* [Chart}(https://github.com/shayanafzal/Kickstarter_Challenge/blob/1a4b586d4b3f6cf72bc6639741c0c9e66f0e1875/Charts/Theater%20Outcomes%20Based%20on%20Launch%20Date%20-%20Line%20Chart.png)
+* ![Outcomes Based on Launch Date - Line Chart] (https://github.com/shayanafzal/Kickstarter_Challenge/blob/1a4b586d4b3f6cf72bc6639741c0c9e66f0e1875/Charts/Theater%20Outcomes%20Based%20on%20Launch%20Date%20-%20Line%20Chart.png)
 2. December is the worse month to start a campaign as it has the highest failure rate at 47%
 
 ### One conclusion about Outcomes based on Goals
